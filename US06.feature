@@ -1,11 +1,12 @@
-Feature: Instrucciones de uso de aplicación 
+Feature: Autenticación en 2 pasos
     Como dueño de una línea de transporte público quiero 
     una verificación en 2 pasos para autenticarse y con ello 
     obtener una mayor seguridad cada vez que haga un inicio 
     de sesión en la aplicación  
-Scenario:  El usuario agrega un sistema de verificación de 2 pasos por el tipo de datos que maneja.
-Given el usuario ya tiene una cuenta enterprise en busaltoque
+Scenario:  El usuario agrega un sistema de verificación de 2 pasos por el tipo de datos que maneja
+Given el usuario ya tiene una <cuenta enterprise> en busaltoque
 When el usuario se dirija a la sección de seguridad avanzada
+And seleccione el tipo de autenticación en 2 pasos que requiera, ya sea mediante un <codigo> al <correo electronico>, un <sms> al número registrado o afiliarse a <google authenticator>
 Then la aplicación mostrará el <tutorial interactivo>
 
 Examples:
