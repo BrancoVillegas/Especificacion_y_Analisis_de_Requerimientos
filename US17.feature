@@ -26,4 +26,4 @@ Examples:
     mapa interactivo con ubicación de persona en tiempo real 
     coordenas de geolocalización de la persona 
     Asunto: Confirmación...., correo origen. miempresa@gmail.com , Cuerpo: Estimado usuario fileserver\tutoriales\tutorialinicio.html
-    Se registró exitosamente .
+    Se registró exitosamente
