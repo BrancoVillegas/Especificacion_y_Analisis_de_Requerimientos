@@ -11,5 +11,3 @@ Then la aplicación le mostrará una <interfaz_de_calificacion> con estrellas. F
 Example: 
     | interfaz_de_calificacion | mensaje_de_confirmacion |
     | 1, 2, 3, 4, 5 (stars)| "Gracias por su calificación" |
-
-

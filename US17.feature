@@ -22,6 +22,3 @@ Then la aplacación ejecutará el <tutorial interactivo>
 Examples:
     | usuario | tutorial interactivo |
     | Juan Perez | fileserver\tutoriales\tutorialesejecution.html |
-
-
-    
