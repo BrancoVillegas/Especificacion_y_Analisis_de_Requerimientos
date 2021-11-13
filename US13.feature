@@ -9,5 +9,5 @@ When se dirija al perfil de la empresa y haga clic en Calificar.
 Then la aplicación le mostrará una <interfaz_de_calificacion> con estrellas. Finalmente, mostrará 
     un <mensaje_de_confirmacion>.
 Example: 
-    | interfaz_de_calificacion | mensaje_de_confirmacion |
+    | interfaz_de_calificacion | mensaje_de_confirmacion | 
     | 1, 2, 3, 4, 5 (stars)| "Gracias por su calificación" |
