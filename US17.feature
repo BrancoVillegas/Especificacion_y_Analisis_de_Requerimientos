@@ -1,4 +1,4 @@
-Feature: Instrucciones de uso de aplicación 
+Feature: Instrucciones de uso de aplicación  
     Como pasajero de autobús nuevo
     en el uso de la aplicación quiero instrucciones 
     para emplear la aplicación de forma óptima 
