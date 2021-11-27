@@ -17,8 +17,6 @@ Given  la aplicación muestra la pantalla para iniciar el tutorial
 When el <usuario> selecciona <Iniciar>   
 Then la aplacación ejecutará el <tutorial interactivo>
 
-
-
 Examples:
     | usuario | tutorial interactivo |
     | Juan Perez | fileserver\tutoriales\tutorialesejecution.html |
